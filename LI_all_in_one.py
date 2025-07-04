@@ -6,8 +6,8 @@ from playwright.sync_api import sync_playwright
 
 # CONFIGURATION
 EXCEL_PATH = r"D:\Tasks\linkedin_automation\18june.xlsx"
-LINKEDIN_EMAIL = "Siddharth.sanghvi@proton.me"
-LINKEDIN_PASSWORD = "Generic1!"
+LINKEDIN_EMAIL = "****"
+LINKEDIN_PASSWORD = "****"
 
 
 def linkedin_login(page):
